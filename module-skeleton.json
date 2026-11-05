@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-tempo-groove-flutter",
+  "capabilityKey": "liberusoftware/music-tempo-groove",
+  "presentation": "mobile-flutter",
+  "package": "module_music_tempo_groove_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/music/nextjs/tempo-groove.md",
+  "presentationPlan": "projects/music/flutter/tempo-groove.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
